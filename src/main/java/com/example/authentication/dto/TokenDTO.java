@@ -5,7 +5,7 @@ public class TokenDTO {
 
     public TokenDTO(){
         this.kty = "RSA";
-        this.n = "eyJhbGciOiJIUzUxMiJ9.eyJhdWQiOiJtZXRhbWFnaWMiLCJpc3MiOiJrZXRhbi5nb3RlQG1ldGFtYWdpYy5pbiIsImV4cCI6MTU1NDQ2MzcwMywidXNlciI6ImNvcGUiLCJpYXQiOjE1NTQ0NjM1MjN9.bvw6O99-2WbF6d78qf4WZNXALQkQ6dbgfsAzBYesxZLLdJR5f5hgXUkD-cDD9NDk0SxkX8TmsSnQJDhlYUXbug";
+        this.n = "MIIBUwIBADANBgkqhkiG9w0BAQEFAASCAT0wggE5AgEAAkEAjmL9Qvdsrf9kccVLO8QpXuKamRhOTERVHoK9sr5EyHCNMYmkQjE9cLCkNs/VUg1KAIBQBm9yatmdekPKvLxprQIDAQABAkA62YERv4/kro0GVOQOdLogpIn/QsOB1DBWJvVevjNRoEzexLEI8Ey3IJm7+7KqJV+ZIy1f27/18RQQ76yAwfllAiEA0FgnNm5xnwIcmcE9dU1Rh599iYeTGAtb5eEgEqe3R38CIQCu9JuLHo9HtvhdZV5ekIOHMRij5R6k7PaRQVeI77GE0wIgEgC8CrEKcmH9VK/k/qDavaxjbaHgbQB2RWvpmJMTfEMCIAe94zQgwg5WVl8roSVmF6vfzEtUVCrQIYkD7y+sC5rpAiBSzIzLg+T8bVjO4w9r0F1zQ5pSdrE22bkyzBVfs7P9lg==";
         this.e = "AQAB";
         this.kid = "MKEY";
     }
