@@ -10,4 +10,8 @@ public class TokenKey {
         this.keys = new ArrayList<>();
         this.keys.add(new TokenDTO());
     }
+
+    public List<TokenDTO> getKeys(){
+        return this.keys;
+    }
 }
