@@ -9,4 +9,38 @@ public class TokenDTO {
         this.e = "AQAB";
         this.kid = "MKEY";
     }
+
+    /**
+     * @return the kty
+     */
+    public String getKty() {
+        return kty;
+    }
+ 
+    /**
+     * @return the n
+     */
+    public String getN() {
+        return n;
+    }
+ 
+    /**
+     * @return the e
+     */
+    public String getE() {
+        return e;
+    }
+
+    
+
+    /**
+     * @return the kid
+     */
+    public String getKid() {
+        return kid;
+    }
+
+     
+
+
 }
